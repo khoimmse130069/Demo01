@@ -1,0 +1,11 @@
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\bin\Debug\Model.dll.config
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\bin\Debug\Model.dll
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\bin\Debug\Model.pdb
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\bin\Debug\EntityFramework.dll
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\bin\Debug\EntityFramework.xml
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\obj\Debug\Model.dll
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\obj\Debug\Model.pdb
+D:\Study\CN7\SWD391\DemoC#API\RESTAPI_Demo01\Model\obj\Debug\Model.csprojAssemblyReference.cache
